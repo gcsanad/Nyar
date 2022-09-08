@@ -7,10 +7,6 @@ body{
     text-align: center;
 }
 
-div{
-    
-}
-
 a:hover{
     color: red;
 }
@@ -22,7 +18,15 @@ a:hover{
 
 }
 
-#bekezdes{
+.bekezdes{
     width: 650px;
     padding-left: 400px;
+}
+
+#kilato{
+    padding-left: 300px;
+}
+
+#forras{
+    margin-top: 100px;
 }
